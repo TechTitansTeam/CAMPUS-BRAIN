@@ -34,11 +34,11 @@ The current prototype focuses on frontend design, user interaction, and demonstr
 
 Explore the deployed CampusBrain frontend prototype using the link below:
 
-**[Open CampusBrain Prototype](https://campus-brain.github.io/CAMPUS-BRAIN/)**
+**[Open CampusBrain Prototype](https://techtitansteam.github.io/CAMPUS-BRAIN/)**
 
 ## 🧪 How to Test the CampusBrain Prototype
 
-To test the complete proposed workflow of CampusBrain, you need to create **two separate accounts: one Faculty account and one Student account**.
+To test the proposed faculty-to-student academic material sharing workflow, you can create two separate accounts: one Faculty account and one Student account.
 
 Follow the steps below to explore the platform and test its intended functionality.
 
@@ -46,7 +46,7 @@ Follow the steps below to explore the platform and test its intended functionali
 
 Visit the website:
 
-**https://campus-brain.github.io/CAMPUS-BRAIN/**
+**[https://techtitansteam.github.io/CAMPUS-BRAIN/](https://techtitansteam.github.io/CAMPUS-BRAIN/)**
 
 ### Step 2: Create Both Student and Faculty Accounts
 
@@ -141,7 +141,7 @@ Open the `docs` directory containing the frontend prototype.
 
 Open `index.html` in your web browser to explore the interface.
 
-Alternatively, visit the [live CampusBrain prototype](https://campus-brain.github.io/CAMPUS-BRAIN/).
+Alternatively, visit the [live CampusBrain prototype](https://techtitansteam.github.io/CAMPUS-BRAIN/).
 
 ## ⚠️ Prototype Limitations
 
