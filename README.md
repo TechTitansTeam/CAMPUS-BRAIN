@@ -1,4 +1,4 @@
-# 🎓 CampusBrain – Smart Campus Management Platform
+# 🎓 CampusBrain – Smart Campus Management Platform 1
 
 **CampusBrain** is a web-based campus management platform designed to make academic resources more accessible and organized for students and faculty.
 
