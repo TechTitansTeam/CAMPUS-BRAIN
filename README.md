@@ -108,6 +108,8 @@ If the upload, storage, and sharing features are implemented correctly, the stud
 
 ## 🛠️ Technologies Used
 
+The CampusBrain prototype uses the following technologies:
+
 - **HTML5** – Webpage structure
 - **CSS3** – Styling and responsive design
 - **JavaScript** – Frontend interactions
@@ -142,6 +144,12 @@ Open the `docs` directory containing the frontend prototype.
 Open `index.html` in your web browser to explore the interface.
 
 Alternatively, visit the [live CampusBrain prototype](https://techtitansteam.github.io/CAMPUS-BRAIN/).
+
+## 🌿 Repository Branch
+
+The current CampusBrain prototype files are maintained in the **`master`** branch of this GitHub repository.
+
+The `master` branch contains the frontend prototype source code and related project files used to develop and demonstrate the CampusBrain interface.
 
 ## ⚠️ Prototype Limitations
 
